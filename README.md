@@ -1,6 +1,6 @@
 # CCaddy (Cron-Caddy)
 
-A Caddy Docker image with built-in cron support.
+[steffenbusch/caddy-cron-matcher](https://github.com/steffenbusch/caddy-cron-matcher)を組み込んだDocker版Caddy(Webサーバー)です。
 
 ## Build
 
